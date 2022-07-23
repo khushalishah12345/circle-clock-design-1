@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.5)*%
+%TF.CreationDate,2022-07-23T15:35:45-04:00*%
+%TF.ProjectId,circle_clock_design,63697263-6c65-45f6-936c-6f636b5f6465,rev?*%
+%TF.SameCoordinates,PX56cacc8PY97b5f08*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.5)) date 2022-07-23 15:35:45*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X117991800Y59080200D02*
+G75*
+G03*
+X117991800Y59080200I-59000000J0D01*
+G01*
+M02*
